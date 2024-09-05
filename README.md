@@ -5,7 +5,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 02](https://github.com/akki-kittu/AIML_2303A52027/blob/main/AIML_Lab_02.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 
-[Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+[Lab 03](https://github.com/akki-kittu/AIML_2303A52027/blob/main/Lab%20-%2003.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
 [Lab 04](): Implement Linear Regression using Boston Housing Data
 
